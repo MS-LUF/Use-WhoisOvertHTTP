@@ -1,3 +1,4 @@
+![image](https://www.lucas-cueff.com/files/gallery.png)
 # Use-WhoisOvertHTTP
 Simple PowerShell commandline interface to use Whois RIPE Database REST API
 
@@ -11,7 +12,7 @@ https://www.ripe.net/manage-ips-and-asns/db/support/documentation/ripe-database-
 Geolocation rest API is not implemented because this API is deprecated
 https://github.com/RIPE-NCC/whois/wiki/WHOIS-REST-API-geolocation
 
-(c) 2018 lucas-cueff.com Distributed under Artistic Licence 2.0 (https://opensource.org/licenses/artistic-license-2.0).
+(c) 2018-2019 lucas-cueff.com Distributed under Artistic Licence 2.0 (https://opensource.org/licenses/artistic-license-2.0).
 
 ## install Use-WhoisOvertHTTP from PowerShell Gallery repository
 You can easily install it from powershell gallery repository
